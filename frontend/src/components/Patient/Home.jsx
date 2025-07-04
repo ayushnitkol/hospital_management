@@ -67,7 +67,7 @@ function Home() {
                 transition={{ duration: 1.5 }}
                 whileInView={{ opacity: 1 }}
                 className='flex flex-col justify-center'> 
-                    <p className='text-3xl font-semibold text-center'>The Power to Heal </p> 
+                    <p className='text-3xl font-semibold text-center'> Your Health, Our Priority </p> 
                     <p className='text-lg text-center'>To Undertake Specialized And holistic healthcare
                         services of world standard and to provide them to all sections....
                     </p>
