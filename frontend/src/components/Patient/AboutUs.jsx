@@ -80,7 +80,7 @@ function AboutUs() {
         whileInView={{ opacity: 1 }}
          className='h-screen max-w-7xl flex flex-col m-auto justify-center text-justify gap-1'>
         <p className='text-2xl font-semibold'>Message from the Group Chairman</p>
-        <p className='text-lg font-medium self-center'>- Dr. D.P. Pandey</p>
+        <p className='text-lg font-medium self-center'>- Dr. D.k. Thakur</p>
         <p className='text-lg'>MEDPLUS has been revolutionizing the art of healthcare delivery through its focus on quality, patient safety and ethical practices. The group has established a fine tradition of healing by upholding the strengths of competence, compassion, technology and digitalization. Today, HMS is the largest healthcare network in the state of Kerala and is among the top leading healthcare organizations in the country. With a team of dedicated professionals who bring experience and expertise, cutting-edge facilities, world class treatment protocols, we strive to deliver quality care balancing the high expectations of patients and the increasing cost of medical technology. 
 
             Thus, MEDPLUS touches upon all aspects of wellness and healthcare, with a fine fusion of cardinal principles of holistic care and hospitality with the three-pronged approach of courtesy, compassion, and competence.</p>
