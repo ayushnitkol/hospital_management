@@ -1,3 +1,4 @@
+require('dotenv').config();
 const express = require("express");
 const bodyParser = require("body-parser");
 const corsMiddleware = require("./middlewares/cors");
@@ -24,6 +25,7 @@ app.use("/nurse",limiter, nurseController);
 app.use("/appointment",limiter, appointmentController);
 app.use("/admin",limiter, adminController);
 app.use(errorHandlerMiddleware);
+// require('dotenv').config();
 
 (async () => {
   try {

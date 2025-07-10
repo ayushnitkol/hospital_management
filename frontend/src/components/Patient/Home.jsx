@@ -51,7 +51,7 @@ function Home() {
     }
 
   return (
-    <div className='bg-[#FEFAE0] '   >
+    <div className='bg-[#c1c0bd] '   >
 
         <section 
         
@@ -68,8 +68,7 @@ function Home() {
                 whileInView={{ opacity: 1 }}
                 className='flex flex-col justify-center'> 
                     <p className='text-3xl font-semibold text-center'> Your Health, Our Priority </p> 
-                    <p className='text-lg text-center'>To Undertake Specialized And holistic healthcare
-                        services of world standard and to provide them to all sections....
+                    <p className='text-lg text-center'>To deliver specialized and holistic healthcare services of global standards, ensuring access for all sections of society.....
                     </p>
                 </motion.div>
                 <motion.div
